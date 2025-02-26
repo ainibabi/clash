@@ -168,8 +168,6 @@ http://111.20.109.150:6610/yinhe/2/ch00000090990000001312/index.m3u8?virtualDoma
 http://111.20.109.150:6610/yinhe/2/ch00000090990000001313/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,内蒙古卫视
 http://111.20.109.150:6610/yinhe/2/ch00000090990000001035/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1,大湾区卫视
-http://111.20.109.150:6610/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,优漫卡通
 http://111.20.109.150:6610/yinhe/2/ch00000090990000001065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,炫动卡通
@@ -183,7 +181,7 @@ http://111.20.109.150:6610/yinhe/2/ch00000090990000001067/index.m3u8?virtualDoma
 #EXTINF:-1,金鹰纪实-HD
 http://111.20.109.150:6610/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,上海纪实-HD
-http://111.20.109.150:6610/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://111.20.109.150:6610/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,山东教育电视台
 http://111.20.109.150:6610/yinhe/2/ch00000090990000001317/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,乐游
